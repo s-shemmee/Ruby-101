@@ -1,6 +1,5 @@
 source "http://rubygems.org"
 
 gem 'sinatra'
-gem 'stock_quote'
 gem 'dotenv'
 gem 'mechanize'
